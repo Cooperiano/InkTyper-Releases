@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/Cooperiano/InkTyper-Releases/security/advisories/new
+    about: Report vulnerabilities and sensitive issues privately.
+  - name: Privacy policy
+    url: https://inktyper.ledgendaryanimal.top/privacy/
+    about: Learn how InkTyper processes and stores data.
