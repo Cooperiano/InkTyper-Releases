@@ -66,3 +66,9 @@ When you sign in, supported InkTyper clients can synchronize account-scoped pref
 - For normal bugs or installation problems, [open an issue](https://github.com/Cooperiano/InkTyper-Releases/issues/new/choose).
 - For security-sensitive reports, follow [SECURITY.md](SECURITY.md) and do not post secrets or personal data in a public issue.
 - Read the official [privacy policy](https://inktyper.ledgendaryanimal.top/privacy/).
+
+## License
+
+[MIT](LICENSE).
+
+The MIT license applies only to the original documentation and repository metadata in this repository. It does not apply to InkTyper application binaries, installers, release assets, logos, or unpublished product source code. Those items are not relicensed by this repository license. Third-party components retain their respective licenses.
